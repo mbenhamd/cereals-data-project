@@ -3,7 +3,7 @@
 Le fichier mis à disposition est un résumé des caractéristiques alimentaires de 77 céréales
 présents dans la majorité des commerces américains.
 
-![alt text]https://github.com/mbenhamd/cereals-data-project/blob/master/cercle_correlation.png
+![alt text](https://github.com/mbenhamd/cereals-data-project/blob/master/cercle_correlation.png)
 
 
 Le jeu de données traité au cours de ce projet porte autour des principaux produits céréaliers
